@@ -1,0 +1,4 @@
+[submodule "zkWasm"]
+	path = zkWasm
+	url = git@github.com:DelphinusLab/zkWasm.git
+	branch = main
