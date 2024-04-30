@@ -1,4 +1,4 @@
 [submodule "zkWasm"]
 	path = zkWasm
-	url = git@github.com:DelphinusLab/zkWasm.git
+	url = https://github.com/ethstorage/zkWasm
 	branch = main
